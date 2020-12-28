@@ -10,7 +10,7 @@ import About from './componats/About';
 import Services from './componats/Services';
 import ContactUs from './componats/ContactUs';
 import Sparpart from './componats/Sparpart';
-import NotFound from './componats/NotFound';
+
 
 function App() {
   return (
@@ -29,8 +29,7 @@ function App() {
     <Route exact path="/services" component={Services}/>
     <Route exact path="/sparpart" component={Sparpart}/>
     <Route exact path="/contactus" component={ContactUs}/>
-    <Route  component={NotFound}/>
-
+  
     
     
 
