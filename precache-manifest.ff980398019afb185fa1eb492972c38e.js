@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "7dd75f8fc215ea2ccb9e",
-    "url": "/K_A_M/static/css/main.5a6b6422.chunk.css"
+    "revision": "26c65bf7650c462b49b8",
+    "url": "/K_A_M/static/css/main.bba62856.chunk.css"
   },
   {
-    "revision": "7dd75f8fc215ea2ccb9e",
+    "revision": "26c65bf7650c462b49b8",
     "url": "/K_A_M/static/js/main.99fedfd4.chunk.js"
   },
   {
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/K_A_M/static/media/Chainrings.b234fd1e.jpg"
   },
   {
-    "revision": "81f41fda78e7f68c02ee0fdb853a096d",
+    "revision": "5d2ccba3ed0a3e1b4957a3df7f32e9c3",
     "url": "/K_A_M/index.html"
   }
 ];
